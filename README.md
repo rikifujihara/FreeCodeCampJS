@@ -1,0 +1,1 @@
+This is a repo I'm using to store files I use to follow along with Free Code Camp's <a href='https://youtu.be/PkZNo7MFNFg'>JavaScript for Beginners</a> course.
